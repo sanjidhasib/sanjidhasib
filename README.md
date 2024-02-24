@@ -1,4 +1,4 @@
-![Banner](https://www.linkedin.com/in/sanjidul-hasan-635146284/overlay/background-image/)
+![Banner](https://github.com/sanjidhasib/sanjidhasib/blob/main/img/Purple%20Abstract%20Graphic%20Design%20LinkedIn%20Article%20Cover%20Image.jpg)
 
 
 <h2 align="center">Hi 👋, I'm Sanjid Hasan</h1>
