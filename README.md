@@ -1,7 +1,8 @@
+<img align="center" alt="Coding" width="1000" src="">
 
-<h2 align="left">Hi 👋, I'm Sanjid Hasan</h1>
-<h3 align="left">a passionate student with a background in Computer Science and Engineering.</h3>
-<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
+<h2 align="center">Hi 👋, I'm Sanjid Hasan</h1>
+<h3 align="center">a passionate student with a background in Computer Science and Engineering.</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 
 
 # 💫 About Me:
