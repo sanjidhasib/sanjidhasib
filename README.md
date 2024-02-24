@@ -1,3 +1,4 @@
+![Banner](https://www.linkedin.com/in/sanjidul-hasan-635146284/overlay/background-image/)
 
 
 <h2 align="center">Hi 👋, I'm Sanjid Hasan</h1>
@@ -9,10 +10,12 @@
 💻 Exploring the realm of web development.<br><br>🌟 Passionate about front-end and back-end technologies.<br><br>🚀 Constantly expanding my skills and knowledge.<br><br>🔍 Eager to dive into the latest tech trends.<br><br>💬 Let's connect and collaborate on exciting projects!<br>
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sanjid hasan)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Sanjid Hasan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sanjidul Hasan)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Sanjid Hasan)
+<a href="https://facebook.com/sanjid hasan" target="_blank">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)</a> 
+<a href="https://instagram.com/Sanjid Hasan" target="_blank">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)</a> 
+<a href="https://linkedin.com/in/Sanjidul Hasan" target="_blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)</a> 
+<a href="https://youtube.com/@Sanjid Hasan" target="_blank">![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)</a>
+
+
 
 
 # 💻 Tech Stack:
