@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="1000" src="">
+
 
 <h2 align="center">Hi 👋, I'm Sanjid Hasan</h1>
 <h3 align="center">a passionate student with a background in Computer Science and Engineering.</h3>
@@ -9,10 +9,10 @@
 💻 Exploring the realm of web development.<br><br>🌟 Passionate about front-end and back-end technologies.<br><br>🚀 Constantly expanding my skills and knowledge.<br><br>🔍 Eager to dive into the latest tech trends.<br><br>💬 Let's connect and collaborate on exciting projects!<br>
 
 ## 🌐 Socials:
-![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)(https://facebook.com/sanjid hasan)  
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)(https://instagram.com/Sanjid Hasan)  
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)(https://linkedin.com/in/Sanjidul Hasan)  
-![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)(https://youtube.com/@Sanjid Hasan) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sanjid hasan)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Sanjid Hasan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sanjidul Hasan)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Sanjid Hasan)
 
 
 # 💻 Tech Stack:
